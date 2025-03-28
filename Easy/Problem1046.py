@@ -1,4 +1,4 @@
-# Given array of strings 'smash' two elements with the highest values removing them from the array.
+# Given an array of strings 'smash' two elements with the highest values removing them from the array.
 # If their difference is not equal to 0, add result to the array. 
 # Return last element in the array or 0 if it does not exist
 class Solution:
